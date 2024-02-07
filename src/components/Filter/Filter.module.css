@@ -1,0 +1,17 @@
+/* Filter.module.css */
+
+.filterName {
+  display: block;
+  margin-bottom: 8px;
+  gap: 12px;
+  margin: 30px 0;
+  font-size: 20px;
+}
+
+.inputText {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+}
